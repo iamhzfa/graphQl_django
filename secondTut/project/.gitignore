@@ -4,6 +4,5 @@
 manage.py
 tests.py
 wsgi.py
-settings.py
 .DS_Store
 db.sqlite3
